@@ -1,0 +1,8 @@
+{
+  "name": "Deep.Memo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "5f0d20fb"
+}
